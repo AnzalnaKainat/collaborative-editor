@@ -46,6 +46,9 @@
   .gradient-blue {
     @apply bg-gradient-to-t from-blue-500 to-blue-400;
   }
+  /* .gradient-blue {
+    @apply linear-gradient(to top, #50C878, #4A90E2);
+  } */
   .gradient-red {
     @apply bg-gradient-to-t from-red-500 to-red-400;
   }
@@ -192,7 +195,7 @@
 .cl-socialButtonsBlockButton,
 .cl-socialButtonsBlockButton:hover {
   height: 40px;
-  background-color: #3371ff;
+  background-color: #506ec8;
   color: #fff;
 }
 
